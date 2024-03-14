@@ -29,8 +29,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the text “Hello World”.
-Developed by:
-Registeration Number :
+Developed by:Abdur Rahman Z
+Registeration Number :212221040003
 */
 ```
 #ACTIVITY_MAIN.XML:
